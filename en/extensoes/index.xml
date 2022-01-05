@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Extensoes on DwarfPets in English</title>
+    <link>https://querypets.com/en/extensoes/</link>
+    <description>Recent content in Extensoes on DwarfPets in English</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://querypets.com/en/extensoes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>.!BT — Download Incompleto do BitTorrent</title>
+      <link>https://querypets.com/en/extensoes/arquivo-de-download-incompleto-do-bittorrent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://querypets.com/en/extensoes/arquivo-de-download-incompleto-do-bittorrent/</guid>
+      <description>O que é o arquivo !BT? Uma dúvida recorrente dos usários do BitTorrent é justamente sobre o conteúdo de um arquivo com a extensão .!bt que aparece, aparentemente do nada, quando o programa é executado.</description>
+    </item>
+    
+  </channel>
+</rss>

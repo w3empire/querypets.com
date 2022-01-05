@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html class="no-js" lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>
+                Pesquisar - Query Pets
+    </title>
+    <script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+    <meta name="description" content="">
+
+    
+    
+    
+    <link rel="stylesheet" href="/css/style.min.css">
+    
+
+    <link rel="shortcut icon" href="/favicon.ico">
+        
+</head>
+<body class="body">
+    <div class="container container--outer">
+        <header class="header">
+	<div class="container header__container">
+		
+    <div class="logo">
+        <a class="logo__link" href="/pt/" rel="home">
+            <div class="logo__item logo__imagebox">
+                    <img class="logo__img" src="/img/querypets-logo.png">
+                </div>
+        </a>
+
+        
+        <div class="leaderboard-ad" align="center">
+            
+        </div>
+    </div>
+		
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">Menu</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/pt/tags/p%C3%A1ssaros/">
+				
+				<span class="menu__text">Pássaros</span>
+				
+			</a>
+		</li>
+	</ul>
+</nav>
+
+	</div>
+</header>
+        <div class="wrapper flex">
+            <div class="primary">
+                <div class="content main__content clearfix">
+                    <header class="post__header">
+                        <h1 class="post__title">
+                            <span id="searching">Pesquisando…</span>
+                            <span id="searchResults" style="display: none">Resultados para a pesquisa "<span id="searchQuery"></span>"</span>
+                        </h1>
+                    </header>
+                    <script async src='https://cse.google.com/cse.js?cx=55280328a78ecba09'></script><div class='gcse-searchresults-only'></div>
+                </div>
+            </div>
+            <aside class="sidebar"><div class="widget-search widget">
+    <div class="widget-search__form">
+        <input class="widget-search__field" type="search" placeholder="BUSCAR…" value="" name="q" aria-label="BUSCAR…" id="search-input">
+        <a class="widget-search__button menu__item" id="search-button" title="BUSCAR…">►</a>
+    </div>
+</div>
+</aside>
+        </div>
+        <footer class="footer">
+	<div class="container footer__container flex">
+		
+<div class="footer__links">
+    <a class="footer__link" href="https://support.querypets.com/pt/institutional/about/" target="_blank" rel="noopener">Sobre nós</a> | <a class="footer__link" href="https://support.querypets.com/pt/institutional/terms/" target="_blank" rel="noopener">Termos de uso</a> | <a class="footer__link" href="https://support.querypets.com/pt/institutional/privacy-policy/" target="_blank" rel="noopener">Política de privacidade</a> | <a class="footer__link" href="https://support.querypets.com/pt/institutional/cookie-policy/" target="_blank" rel="noopener">Política de cookies</a> | <a class="footer__link" href="https://support.querypets.com/pt/institutional/affiliate-disclosure/" target="_blank" rel="noopener">Divulgação de afiliados</a>
+</div>
+		<div class="footer__copyright">
+			&copy; 2022 Query Pets.
+			<span class="footer__copyright-credits">Este site não constitui aconselhamento médico para animais de estimação. Consulte um veterinário licenciado em sua área para obter aconselhamento médico para animais de estimação.</span>
+		</div>
+	</div>
+</footer>
+    </div>
+<script async defer src="/js/menu.js"></script>
+<script src="/js/search.js"></script><script>
+    var callback = function(){
+        const queryString = window.location.search;
+        const urlParams = new URLSearchParams(queryString);
+        var q = urlParams.has("q") ? urlParams.get("q") : "";
+
+        if (!q.trim()) {
+            var documentLang = document.documentElement.lang;
+            window.location = "/" + documentLang + "/";
+        }
+    };
+
+    if (
+        document.readyState === "complete" ||
+        (document.readyState !== "loading" && !document.documentElement.doScroll)
+    ) {
+      callback();
+    } else {
+        document.addEventListener("DOMContentLoaded", callback);
+    }
+</script>
+</body>
+</html>
