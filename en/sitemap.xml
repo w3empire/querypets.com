@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://querypets.com/en/categories/birds/</loc>
+    <loc>https://querypets.com/categories/birds/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -31,10 +31,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://querypets.com/en/categories/birds/"
+                href="https://querypets.com/categories/birds/"
                 />
   </url><url>
-    <loc>https://querypets.com/en/categories/</loc>
+    <loc>https://querypets.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -63,10 +63,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://querypets.com/en/categories/"
+                href="https://querypets.com/categories/"
                 />
   </url><url>
-    <loc>https://querypets.com/en/categories/cats/</loc>
+    <loc>https://querypets.com/categories/cats/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -95,10 +95,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://querypets.com/en/categories/cats/"
+                href="https://querypets.com/categories/cats/"
                 />
   </url><url>
-    <loc>https://querypets.com/en/categories/dogs/</loc>
+    <loc>https://querypets.com/categories/dogs/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -127,10 +127,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://querypets.com/en/categories/dogs/"
+                href="https://querypets.com/categories/dogs/"
                 />
   </url><url>
-    <loc>https://querypets.com/en/</loc>
+    <loc>https://querypets.com/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -159,10 +159,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://querypets.com/en/"
+                href="https://querypets.com/"
                 />
   </url><url>
-    <loc>https://querypets.com/en/categories/reptiles/</loc>
+    <loc>https://querypets.com/categories/reptiles/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -191,10 +191,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://querypets.com/en/categories/reptiles/"
+                href="https://querypets.com/categories/reptiles/"
                 />
   </url><url>
-    <loc>https://querypets.com/en/search/</loc>
+    <loc>https://querypets.com/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -223,10 +223,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://querypets.com/en/search/"
+                href="https://querypets.com/search/"
                 />
   </url><url>
-    <loc>https://querypets.com/en/tags/</loc>
+    <loc>https://querypets.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -255,7 +255,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://querypets.com/en/tags/"
+                href="https://querypets.com/tags/"
                 />
   </url>
 </urlset>
