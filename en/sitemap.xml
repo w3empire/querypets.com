@@ -2,7 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://querypets.com/articles/</loc>
+    <lastmod>2021-06-29T08:55:58-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://querypets.com/pt/articles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://querypets.com/articles/"
+                />
+  </url><url>
     <loc>https://querypets.com/categories/birds/</loc>
+    <lastmod>2021-06-29T08:55:58-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -35,6 +49,7 @@
                 />
   </url><url>
     <loc>https://querypets.com/categories/</loc>
+    <lastmod>2021-06-29T08:55:58-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -64,6 +79,52 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://querypets.com/categories/"
+                />
+  </url><url>
+    <loc>https://querypets.com/</loc>
+    <lastmod>2021-06-29T08:55:58-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://querypets.com/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://querypets.com/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://querypets.com/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://querypets.com/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://querypets.com/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://querypets.com/"
+                />
+  </url><url>
+    <loc>https://querypets.com/articles/why-do-parakeets-stand-on-one-foot/</loc>
+    <lastmod>2021-06-29T08:55:58-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://querypets.com/pt/articles/why-do-parakeets-stand-on-one-foot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://querypets.com/articles/why-do-parakeets-stand-on-one-foot/"
                 />
   </url><url>
     <loc>https://querypets.com/categories/cats/</loc>
@@ -128,38 +189,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://querypets.com/categories/dogs/"
-                />
-  </url><url>
-    <loc>https://querypets.com/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://querypets.com/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://querypets.com/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://querypets.com/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://querypets.com/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://querypets.com/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://querypets.com/"
                 />
   </url><url>
     <loc>https://querypets.com/categories/reptiles/</loc>

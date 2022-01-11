@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://querypets.com/pt/articles/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://querypets.com/articles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://querypets.com/pt/articles/"
+                />
+  </url><url>
     <loc>https://querypets.com/pt/categories/dogs/</loc>
     <xhtml:link
                 rel="alternate"
@@ -128,6 +140,20 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://querypets.com/pt/search/"
+                />
+  </url><url>
+    <loc>https://querypets.com/pt/articles/why-my-parakeet-is-clicking-its-beek/</loc>
+  </url><url>
+    <loc>https://querypets.com/pt/articles/why-do-parakeets-stand-on-one-foot/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://querypets.com/articles/why-do-parakeets-stand-on-one-foot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://querypets.com/pt/articles/why-do-parakeets-stand-on-one-foot/"
                 />
   </url><url>
     <loc>https://querypets.com/pt/categories/birds/</loc>
