@@ -2,6 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://querypets.com/ja/articles/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://querypets.com/articles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://querypets.com/pt/articles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://querypets.com/es/articles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://querypets.com/zh-cn/articles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://querypets.com/ru/articles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://querypets.com/ja/articles/"
+                />
+  </url><url>
     <loc>https://querypets.com/ja/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -96,6 +128,70 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://querypets.com/ja/tags/"
+                />
+  </url><url>
+    <loc>https://querypets.com/ja/articles/why-is-my-parakeet-clicking-its-beek/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://querypets.com/articles/why-is-my-parakeet-clicking-its-beek/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://querypets.com/pt/articles/why-is-my-parakeet-clicking-its-beek/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://querypets.com/es/articles/why-is-my-parakeet-clicking-its-beek/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://querypets.com/zh-cn/articles/why-is-my-parakeet-clicking-its-beek/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://querypets.com/ru/articles/why-is-my-parakeet-clicking-its-beek/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://querypets.com/ja/articles/why-is-my-parakeet-clicking-its-beek/"
+                />
+  </url><url>
+    <loc>https://querypets.com/ja/articles/why-do-parakeets-stand-on-one-foot/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://querypets.com/articles/why-do-parakeets-stand-on-one-foot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://querypets.com/pt/articles/why-do-parakeets-stand-on-one-foot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://querypets.com/es/articles/why-do-parakeets-stand-on-one-foot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://querypets.com/zh-cn/articles/why-do-parakeets-stand-on-one-foot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://querypets.com/ru/articles/why-do-parakeets-stand-on-one-foot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://querypets.com/ja/articles/why-do-parakeets-stand-on-one-foot/"
                 />
   </url><url>
     <loc>https://querypets.com/ja/search/</loc>
