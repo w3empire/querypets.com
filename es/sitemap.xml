@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://querypets.com/es/articles/</loc>
+    <lastmod>2022-01-11T20:13:51-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -32,6 +33,138 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://querypets.com/es/articles/"
+                />
+  </url><url>
+    <loc>https://querypets.com/es/categories/</loc>
+    <lastmod>2022-01-11T20:13:51-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://querypets.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://querypets.com/pt/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://querypets.com/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://querypets.com/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://querypets.com/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://querypets.com/es/categories/"
+                />
+  </url><url>
+    <loc>https://querypets.com/es/categories/dogs/</loc>
+    <lastmod>2022-01-11T20:13:51-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://querypets.com/categories/dogs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://querypets.com/pt/categories/dogs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://querypets.com/zh-cn/categories/dogs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://querypets.com/ja/categories/dogs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://querypets.com/ru/categories/dogs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://querypets.com/es/categories/dogs/"
+                />
+  </url><url>
+    <loc>https://querypets.com/es/</loc>
+    <lastmod>2022-01-11T20:13:51-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://querypets.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://querypets.com/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://querypets.com/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://querypets.com/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://querypets.com/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://querypets.com/es/"
+                />
+  </url><url>
+    <loc>https://querypets.com/es/articles/when-do-blue-heeler-puppies-need-their-first-haircut/</loc>
+    <lastmod>2022-01-11T20:13:51-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://querypets.com/articles/when-do-blue-heeler-puppies-need-their-first-haircut/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://querypets.com/pt/articles/when-do-blue-heeler-puppies-need-their-first-haircut/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://querypets.com/zh-cn/articles/when-do-blue-heeler-puppies-need-their-first-haircut/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://querypets.com/ja/articles/when-do-blue-heeler-puppies-need-their-first-haircut/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://querypets.com/ru/articles/when-do-blue-heeler-puppies-need-their-first-haircut/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://querypets.com/es/articles/when-do-blue-heeler-puppies-need-their-first-haircut/"
                 />
   </url><url>
     <loc>https://querypets.com/es/categories/birds/</loc>
@@ -98,38 +231,6 @@
                 href="https://querypets.com/es/search/"
                 />
   </url><url>
-    <loc>https://querypets.com/es/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://querypets.com/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://querypets.com/pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://querypets.com/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://querypets.com/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://querypets.com/ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://querypets.com/es/categories/"
-                />
-  </url><url>
     <loc>https://querypets.com/es/categories/cats/</loc>
     <xhtml:link
                 rel="alternate"
@@ -160,70 +261,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://querypets.com/es/categories/cats/"
-                />
-  </url><url>
-    <loc>https://querypets.com/es/categories/dogs/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://querypets.com/categories/dogs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://querypets.com/pt/categories/dogs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://querypets.com/zh-cn/categories/dogs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://querypets.com/ja/categories/dogs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://querypets.com/ru/categories/dogs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://querypets.com/es/categories/dogs/"
-                />
-  </url><url>
-    <loc>https://querypets.com/es/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://querypets.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://querypets.com/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://querypets.com/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://querypets.com/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://querypets.com/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://querypets.com/es/"
                 />
   </url><url>
     <loc>https://querypets.com/es/categories/reptiles/</loc>

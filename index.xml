@@ -5,16 +5,8 @@
     <link>https://querypets.com/</link>
     <description>Recent content in Query Pets — Happy Pet, Happy Owner on Query Pets</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://querypets.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Search</title>
-      <link>https://querypets.com/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://querypets.com/search/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jan 2022 20:13:51 -0300</lastBuildDate><atom:link href="https://querypets.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Do Parakeets Stand On One Foot?</title>
       <link>https://querypets.com/articles/why-do-parakeets-stand-on-one-foot/</link>
@@ -22,6 +14,24 @@
       
       <guid>https://querypets.com/articles/why-do-parakeets-stand-on-one-foot/</guid>
       <description>Parakeets are very sociable animals. They love to interact with their owners.</description>
+    </item>
+    
+    <item>
+      <title>When Do Blue Heeler Puppies Need Their First Haircut?</title>
+      <link>https://querypets.com/articles/when-do-blue-heeler-puppies-need-their-first-haircut/</link>
+      <pubDate>Tue, 11 Jan 2022 20:13:51 -0300</pubDate>
+      
+      <guid>https://querypets.com/articles/when-do-blue-heeler-puppies-need-their-first-haircut/</guid>
+      <description>Blue Heeler puppies are very cute and have a very distinctive appearance.</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://querypets.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://querypets.com/search/</guid>
+      <description></description>
     </item>
     
     <item>
