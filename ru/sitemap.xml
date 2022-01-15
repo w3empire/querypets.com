@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://querypets.com/ru/articles/</loc>
-    <lastmod>2022-01-13T12:27:47-03:00</lastmod>
+    <lastmod>2022-01-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -36,7 +36,7 @@
                 />
   </url><url>
     <loc>https://querypets.com/ru/categories/</loc>
-    <lastmod>2022-01-13T12:27:47-03:00</lastmod>
+    <lastmod>2022-01-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -69,7 +69,7 @@
                 />
   </url><url>
     <loc>https://querypets.com/ru/</loc>
-    <lastmod>2022-01-13T12:27:47-03:00</lastmod>
+    <lastmod>2022-01-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -99,6 +99,72 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://querypets.com/ru/"
+                />
+  </url><url>
+    <loc>https://querypets.com/ru/articles/why-does-my-parakeet-eat-his-poop/</loc>
+    <lastmod>2022-01-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://querypets.com/articles/why-does-my-parakeet-eat-his-poop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://querypets.com/pt/articles/why-does-my-parakeet-eat-his-poop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://querypets.com/es/articles/why-does-my-parakeet-eat-his-poop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://querypets.com/zh-cn/articles/why-does-my-parakeet-eat-his-poop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://querypets.com/ja/articles/why-does-my-parakeet-eat-his-poop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://querypets.com/ru/articles/why-does-my-parakeet-eat-his-poop/"
+                />
+  </url><url>
+    <loc>https://querypets.com/ru/categories/birds/</loc>
+    <lastmod>2022-01-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://querypets.com/categories/birds/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://querypets.com/pt/categories/birds/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://querypets.com/es/categories/birds/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://querypets.com/zh-cn/categories/birds/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://querypets.com/ja/categories/birds/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://querypets.com/ru/categories/birds/"
                 />
   </url><url>
     <loc>https://querypets.com/ru/articles/how-big-do-corgis-get/</loc>
@@ -328,38 +394,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://querypets.com/ru/articles/why-do-parakeets-stand-on-one-foot/"
-                />
-  </url><url>
-    <loc>https://querypets.com/ru/categories/birds/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://querypets.com/categories/birds/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://querypets.com/pt/categories/birds/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://querypets.com/es/categories/birds/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://querypets.com/zh-cn/categories/birds/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://querypets.com/ja/categories/birds/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://querypets.com/ru/categories/birds/"
                 />
   </url><url>
     <loc>https://querypets.com/ru/categories/reptiles/</loc>
