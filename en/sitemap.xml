@@ -2,40 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://querypets.com/articles/why-do-parakeets-stand-on-one-foot/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://querypets.com/pt/articles/why-do-parakeets-stand-on-one-foot/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://querypets.com/es/articles/why-do-parakeets-stand-on-one-foot/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://querypets.com/zh-cn/articles/why-do-parakeets-stand-on-one-foot/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://querypets.com/ja/articles/why-do-parakeets-stand-on-one-foot/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://querypets.com/ru/articles/why-do-parakeets-stand-on-one-foot/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://querypets.com/articles/why-do-parakeets-stand-on-one-foot/"
-                />
-  </url><url>
     <loc>https://querypets.com/articles/</loc>
-    <lastmod>2022-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -68,7 +36,7 @@
                 />
   </url><url>
     <loc>https://querypets.com/categories/birds/</loc>
-    <lastmod>2022-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -101,7 +69,7 @@
                 />
   </url><url>
     <loc>https://querypets.com/categories/</loc>
-    <lastmod>2022-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -134,7 +102,7 @@
                 />
   </url><url>
     <loc>https://querypets.com/</loc>
-    <lastmod>2022-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -164,6 +132,39 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://querypets.com/"
+                />
+  </url><url>
+    <loc>https://querypets.com/articles/why-does-my-parakeet-have-diarrhea/</loc>
+    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://querypets.com/pt/articles/why-does-my-parakeet-have-diarrhea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://querypets.com/es/articles/why-does-my-parakeet-have-diarrhea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://querypets.com/zh-cn/articles/why-does-my-parakeet-have-diarrhea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://querypets.com/ja/articles/why-does-my-parakeet-have-diarrhea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://querypets.com/ru/articles/why-does-my-parakeet-have-diarrhea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://querypets.com/articles/why-does-my-parakeet-have-diarrhea/"
                 />
   </url><url>
     <loc>https://querypets.com/articles/why-does-my-parakeet-eat-his-poop/</loc>
@@ -263,6 +264,39 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://querypets.com/articles/how-big-do-corgis-get/"
+                />
+  </url><url>
+    <loc>https://querypets.com/articles/why-is-my-parakeet-clicking-its-beak/</loc>
+    <lastmod>2022-01-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://querypets.com/pt/articles/why-is-my-parakeet-clicking-its-beak/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://querypets.com/es/articles/why-is-my-parakeet-clicking-its-beak/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://querypets.com/zh-cn/articles/why-is-my-parakeet-clicking-its-beak/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://querypets.com/ja/articles/why-is-my-parakeet-clicking-its-beak/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://querypets.com/ru/articles/why-is-my-parakeet-clicking-its-beak/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://querypets.com/articles/why-is-my-parakeet-clicking-its-beak/"
                 />
   </url><url>
     <loc>https://querypets.com/articles/when-do-blue-heeler-puppies-need-their-first-haircut/</loc>
@@ -426,36 +460,36 @@
                 href="https://querypets.com/tags/"
                 />
   </url><url>
-    <loc>https://querypets.com/articles/why-is-my-parakeet-clicking-its-beak/</loc>
+    <loc>https://querypets.com/articles/why-do-parakeets-stand-on-one-foot/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://querypets.com/pt/articles/why-is-my-parakeet-clicking-its-beak/"
+                href="https://querypets.com/pt/articles/why-do-parakeets-stand-on-one-foot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://querypets.com/es/articles/why-is-my-parakeet-clicking-its-beak/"
+                href="https://querypets.com/es/articles/why-do-parakeets-stand-on-one-foot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://querypets.com/zh-cn/articles/why-is-my-parakeet-clicking-its-beak/"
+                href="https://querypets.com/zh-cn/articles/why-do-parakeets-stand-on-one-foot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://querypets.com/ja/articles/why-is-my-parakeet-clicking-its-beak/"
+                href="https://querypets.com/ja/articles/why-do-parakeets-stand-on-one-foot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://querypets.com/ru/articles/why-is-my-parakeet-clicking-its-beak/"
+                href="https://querypets.com/ru/articles/why-do-parakeets-stand-on-one-foot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://querypets.com/articles/why-is-my-parakeet-clicking-its-beak/"
+                href="https://querypets.com/articles/why-do-parakeets-stand-on-one-foot/"
                 />
   </url>
 </urlset>
