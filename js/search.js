@@ -27,7 +27,12 @@ function getSearchQuery(po_searchInput) {
 function search(ps_searchQuery) {
     if (ps_searchQuery.length) {
         var documentLang = document.documentElement.lang;
-        var searchURL = "/" + documentLang + "/search/?q=" + encodeURIComponent(ps_searchQuery);
+        var searchURL = "";
+        if (documentLang == "en" || documentLang == "en-US" || documentLang == "en-UK") {
+            searchURL = "/search/?q=" + encodeURIComponent(ps_searchQuery);
+        } else {
+            searchURL = "/" + documentLang + "/search/?q=" + encodeURIComponent(ps_searchQuery);
+        }
 
         window.location = searchURL;
     }
