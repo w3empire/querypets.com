@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://querypets.com/authors/annika-sjogren/</loc>
-    <lastmod>2023-08-01T15:30:50-03:00</lastmod>
+    <loc>https://querypets.com/authors/danielle-guzman/</loc>
+    <lastmod>2023-08-18T10:33:58-03:00</lastmod>
   </url><url>
-    <loc>https://querypets.com/articles/do-guinea-pigs-like-it-when-you-kiss-them/</loc>
-    <lastmod>2023-08-01T15:30:50-03:00</lastmod>
+    <loc>https://querypets.com/articles/do-guinea-pigs-like-human-interaction/</loc>
+    <lastmod>2023-08-18T10:33:58-03:00</lastmod>
   </url><url>
     <loc>https://querypets.com/authors/</loc>
-    <lastmod>2023-08-01T15:30:50-03:00</lastmod>
+    <lastmod>2023-08-18T10:33:58-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -22,7 +22,7 @@
                 />
   </url><url>
     <loc>https://querypets.com/categories/</loc>
-    <lastmod>2023-08-01T15:30:50-03:00</lastmod>
+    <lastmod>2023-08-18T10:33:58-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -35,7 +35,7 @@
                 />
   </url><url>
     <loc>https://querypets.com/</loc>
-    <lastmod>2023-08-01T15:30:50-03:00</lastmod>
+    <lastmod>2023-08-18T10:33:58-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -48,13 +48,31 @@
                 />
   </url><url>
     <loc>https://querypets.com/categories/rodents/</loc>
-    <lastmod>2023-08-01T15:30:50-03:00</lastmod>
+    <lastmod>2023-08-18T10:33:58-03:00</lastmod>
   </url><url>
     <loc>https://querypets.com/articles/</loc>
-    <lastmod>2023-08-01T15:30:50-03:00</lastmod>
+    <lastmod>2023-08-18T10:33:58-03:00</lastmod>
   </url><url>
     <loc>https://querypets.com/authors/thomas-bohl/</loc>
-    <lastmod>2023-08-01T15:04:26-03:00</lastmod>
+    <lastmod>2023-08-02T18:08:57-03:00</lastmod>
+  </url><url>
+    <loc>https://querypets.com/articles/do-guinea-pigs-like-being-talked-to/</loc>
+    <lastmod>2023-08-02T18:08:57-03:00</lastmod>
+  </url><url>
+    <loc>https://querypets.com/articles/why-is-my-guinea-pig-always-squeaking-at-me/</loc>
+    <lastmod>2023-08-02T17:56:34-03:00</lastmod>
+  </url><url>
+    <loc>https://querypets.com/articles/does-squeaking-mean-a-guinea-pig-is-happy/</loc>
+    <lastmod>2023-08-02T17:41:50-03:00</lastmod>
+  </url><url>
+    <loc>https://querypets.com/articles/how-do-i-tell-my-guinea-pig-i-love-him/</loc>
+    <lastmod>2023-08-02T17:28:09-03:00</lastmod>
+  </url><url>
+    <loc>https://querypets.com/authors/annika-sjogren/</loc>
+    <lastmod>2023-08-01T15:30:50-03:00</lastmod>
+  </url><url>
+    <loc>https://querypets.com/articles/do-guinea-pigs-like-it-when-you-kiss-them/</loc>
+    <lastmod>2023-08-01T15:30:50-03:00</lastmod>
   </url><url>
     <loc>https://querypets.com/articles/should-i-be-worried-if-my-guinea-pig-bites-me/</loc>
     <lastmod>2023-08-01T15:04:26-03:00</lastmod>
@@ -91,9 +109,6 @@
   </url><url>
     <loc>https://querypets.com/articles/can-birds-sense-you-looking-at-them/</loc>
     <lastmod>2023-07-02T09:54:26-03:00</lastmod>
-  </url><url>
-    <loc>https://querypets.com/authors/danielle-guzman/</loc>
-    <lastmod>2023-07-02T09:43:37-03:00</lastmod>
   </url><url>
     <loc>https://querypets.com/articles/what-does-it-mean-when-a-bird-tilts-its-head/</loc>
     <lastmod>2023-07-02T09:43:37-03:00</lastmod>
@@ -138,9 +153,5 @@
     <lastmod>2023-07-01T07:09:09-03:00</lastmod>
   </url><url>
     <loc>https://querypets.com/search/</loc>
-  </url><url>
-    <loc>https://querypets.com/categories/cats/</loc>
-  </url><url>
-    <loc>https://querypets.com/categories/reptiles/</loc>
   </url>
 </urlset>
